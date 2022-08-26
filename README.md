@@ -1,11 +1,11 @@
-# kittenwellness
+# weather API 
 
-This website offers a slection of mental health and wellness tips alongside striking displays of kittens. 
+Deliverables 
+  -three event listeners
+  -fetch from an API
 
-User Stories : 
-As a user I can select a kitten picture. 
-As a user I can select a resource on mental health and wellness. 
-As a user I can add my own mental health resource URL and picture to the page. 
-
-https://rapidapi.com/creatorvision/api/mental-health-info-api/
-https://placekitten.com/
+goals 
+-show local temperature and what it feels like through buttons 
+-show sunrise and sunset 
+-show alerts 
+-possibly have this location found by inputting longitude and latitude
